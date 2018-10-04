@@ -1,6 +1,6 @@
 import json
 from difflib import get_close_matches
-
+## to jest test czy GIT dziala!
 data = json.load(open("data.json"))
 
 def translate(w):
